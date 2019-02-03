@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CardioBook</string>
+    <string name="date">Date</string>
+    <string name="diastolic">Diastolic</string>
+    <string name="systolic">Systolic</string>
+    <string name="time">Time</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="add">Add</string>
+    <string name="sumbit">sumbit</string>
+    <string name="submit">submit</string>
+</resources>
